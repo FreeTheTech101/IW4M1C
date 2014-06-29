@@ -1,0 +1,11 @@
+﻿Build started 6/20/2014 12:24:28 AM.
+     1>Project "C:\Users\yolarrydabomb\Desktop\IW4M1Classic\steam_api\steam_api.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\Users\yolarrydabomb\Desktop\IW4M1Classic\Normal\steam_api.dll) does not match the Linker's OutputFile property value (C:\Users\yolarrydabomb\Desktop\IW4M1Classic\Normal\iw4m.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(steam_api) does not match the Linker's OutputFile property value (iw4m). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>Link:
+         steam_api.vcxproj -> C:\Users\yolarrydabomb\Desktop\IW4M1Classic\Normal\steam_api.dll
+     1>Done Building Project "C:\Users\yolarrydabomb\Desktop\IW4M1Classic\steam_api\steam_api.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.38
